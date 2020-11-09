@@ -1,7 +1,15 @@
-# Managed Library for Nintendo's Wiimote v1.7.0.0
-**by [Brian Peek](http://www.brianpeek.com/)**
+# Managed Library for Nintendo's Wiimote v1.7.0.1
+## Changes by lshachar:
+v1.7.0.1
+--------
+	o Added zero point calibration functionality
+	o Fixed a bug where measurements of the four weight sensors on the Nintendo Balance board were exactly 4 times too big, each
 
+See more info [here](https://github.com/BrianPeek/WiimoteLib/pull/9) and [here](https://github.com/BrianPeek/WiimoteLib/pull/7)
+***
+		
 A library for using a Nintendo Wii Remote (Wiimote) from .NET.
+**by [Brian Peek](http://www.brianpeek.com/)**
 
 This project started life as an article for Microsoft's [Coding4Fun](https://channel9.msdn.com/coding4fun/articles/Managed-Library-for-Nintendos-Wiimote) website.  A full set of API docs can be found in the release package.
 

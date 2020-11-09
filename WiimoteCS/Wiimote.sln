@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiimoteTest", "WiimoteTest\WiimoteTest.csproj", "{48223EAB-B2E0-4A64-9074-4444662EB693}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiimoteLib", "WiimoteLib\WiimoteLib.csproj", "{37A555DF-7012-4B99-8A47-1C922A361E52}"
@@ -22,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F1E7C2-A628-4C9F-B7B4-72F8862E6F46}
 	EndGlobalSection
 EndGlobal
